@@ -28,7 +28,7 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=RoVoid&repo=MappetR&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)"/>
     <source srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=RoVoid&repo=MappetR&show_icons=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
@@ -36,4 +36,4 @@
   </picture>
 </p>
 
-<img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&animation=fadeIn&section=footer">
+<img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&animation=fadeIn&section=footer"> -->
